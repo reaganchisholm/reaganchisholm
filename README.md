@@ -1,16 +1,17 @@
-### Hi there 👋
+<p align="center">
+    <samp>
+        Reagan Chisholm
+    </samp>
+</p>        
 
-<!--
-**reaganchisholm/reaganchisholm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center" style="color:blue">
+    <samp>
+        <a href="https://studio123.ca/work">work</a> . 
+        <a href="https://reagan.world/projects">side projects</a> . 
+        <a href="https://instagram.com/reaganchisholm/">instagram</a>
+    </samp>
+</p>        
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center" style="color:blue">
+    <a href="https://reagan.world">reagan.world</a>
+</p>        
