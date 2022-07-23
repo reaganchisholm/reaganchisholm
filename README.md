@@ -14,6 +14,6 @@
 
 <p align="center" style="color:blue">
     <samp>
-        <a href="https://reagan.world">reagan.world</a>
+        <a href="https://reagan.world">🌎 reagan.world 🌎</a>
     </samp>
 </p>        
