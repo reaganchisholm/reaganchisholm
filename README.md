@@ -1,3 +1,5 @@
+<br/>
+<br/>
 <p align="center">
     <samp>
         Reagan Chisholm
@@ -15,4 +17,6 @@
     <samp>
         <a href="https://reagan.world">🌎 reagan.world 🌎</a>
     </samp>
-</p>        
+</p>
+<br/>
+<br/>
