@@ -8,8 +8,8 @@
 
 <p align="center" style="color:blue">
     <samp>
-        <a href="https://studio123.ca/work">Studio123 Work</a> | 
-        <a href="https://reagan.world/projects">Side Projects</a>
+        <a href="https://studio123.ca">Studio123</a> | 
+        <a href="https://reagan.world">Personal Site</a>
     </samp>
 </p>        
 
